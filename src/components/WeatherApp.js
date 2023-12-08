@@ -95,11 +95,11 @@ export const WeatherApp = () => {
               />
               </Form.Group>
               <div className="separator"></div>
-              <section className="input-part">
-              <div className="content">
-                <button>Get Device Location</button>
-              </div>
-            </section>
+              //<section className="input-part">
+              //<div className="content">
+              //  <button>Get Device Location</button>
+            //  </div>
+          //  </section>
             </Form>
             
             <section className="weather-part">
