@@ -356,32 +356,6 @@ header i{
 .input-part input::placeholder{
   color: #bfbfbf;
 }
-.input-part .separator{
-  height: 1px;
-  width: 100%;
-  margin: 25px 0;
-  background: #ccc;
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.separator::before{
-  content: "or";
-  color: #b3b3b3;
-  font-size: 19px;
-  padding: 0 15px;
-  background: #fff;
-}
-.input-part button{
-  color: #fff;
-  cursor: pointer;
-  background: #43AFFC;
-  transition: 0.3s ease;
-}
-.input-part button:hover{
-  background: #1d9ffc;
-}
 
 .wrapper .weather-part{
   display: flex;

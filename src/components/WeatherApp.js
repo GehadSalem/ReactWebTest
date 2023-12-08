@@ -94,7 +94,6 @@ export const WeatherApp = () => {
                 onKeyPress={searchCityName}
               />
               </Form.Group>
-              <div className="separator"></div>
             </Form>
             
             <section className="weather-part">
